@@ -1,0 +1,1 @@
+<p>Hello,<br/><br/><br/>One test drive request for Car<br/><br/>Brand:<b><?php echo $brand; ?></b><br/>Model:<b><?php echo $model; ?></b><br/>Custome Contact Number:<b><?php echo $number; ?></b></p>
